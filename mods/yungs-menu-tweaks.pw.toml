@@ -1,0 +1,13 @@
+name = "YUNG's Menu Tweaks (Forge)"
+filename = "YungsMenuTweaks-1.20.1-Forge-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dc3346924d0df828625a5f573ceb1a72ecc98d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4772076
+project-id = 917285

@@ -1,0 +1,13 @@
+name = "Rubidium Extra"
+filename = "rubidium-extra-0.5.2+mc1.20.1-build.104.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bbf84cd546642c67f926b5c9bf3e41d5d65ada3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4768182
+project-id = 654373

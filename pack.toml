@@ -1,0 +1,13 @@
+name = "Toastys Simple Pack"
+author = "Toasty"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d76e099122ac3be8c7334c377dab0bf180ca23f32afb2033a6577b06f6c573db"
+
+[versions]
+forge = "47.2.1"
+minecraft = "1.20.1"
