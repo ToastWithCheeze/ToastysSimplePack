@@ -1,3 +1,0 @@
-#Sun Oct 01 18:04:58 CEST 2023
-shadowDistance=256.0
-ENTITY_SHADOWS=true
