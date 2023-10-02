@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "6e8cafd1d6ce7ddbdb0aa9e05d6263073682cbe0ad7348b25d20c9f8e32d73f3"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -406,7 +402,7 @@ hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b18541422bab7c089d7ff3241272af13d783e7af0a4730ba853496476d6f5df1"
+hash = "8d3cb70dd4c66d85194598911f1f354d73a62b91b15e460fb46064d1d18fed5a"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_20.toml"
@@ -1005,6 +1001,11 @@ hash = "bd2dd879c88607f5413c7ecde504fce6ad8c0a2c82ccb599397b9d1831ae7bb7"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0579204673f3d0d3a4423010f03c867a6a7b519a260191ccbdd029256b6449cd"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "17241397969687314e7f572e4cb356de08759efde327cc6e5fa820bd919de02f"
 metafile = true
@@ -1072,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8c42bc3d77b4ac248e7a8f91816ae32b93a1820fa252fffacbeba71039494d0f"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "0ed3e0cccd8741b2fc78f2db619506f33bf2b5a7a9908f4355b2305b9a429d20"
 metafile = true
 
 [[files]]
