@@ -1066,6 +1066,11 @@ hash = "995f7db2ba6c1a97de2afccb80b89d03f85f83a7252874e52829c172ad4286ad"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "6012b460560e789fe76a97a81e6eb943d35d19a4bcb9c1309015be4a9706250a"
 metafile = true
