@@ -1100,6 +1100,16 @@ hash = "0ec9a5b69a4f81e1a51c60857727d7ed0fbc8e6ac77600691cb13411e5c7cd19"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0ae4f7b303a967a971ef24784e08ab1f859a6148c45d2950c72767849cda19cc"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "ccc676f2fe83d77631fda1cc9ee4f1888d5ae4790f9777b0075f820d71dee3a0"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "2173e8922c49fdffb63f182889cca029b7c3d07d94bcfd513f7937c767ab10b5"
 metafile = true
